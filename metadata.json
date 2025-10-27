@@ -1,0 +1,5 @@
+{
+  "name": "CSV Static Site Generator",
+  "description": "A React application that generates a static blog-like website from a CSV file. Users can update the website content simply by editing the CSV file.",
+  "requestFramePermissions": []
+}
